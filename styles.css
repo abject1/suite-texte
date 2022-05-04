@@ -18,5 +18,5 @@ h1 {
 }
 
 .seen {
-    display: block;
+    display: block !important; 
 }
