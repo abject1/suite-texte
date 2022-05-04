@@ -1,0 +1,22 @@
+.container  {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+#next {
+    border-radius: 8px;
+    color: red;
+    background-color: blue;
+}
+
+#text2 {
+    display: none;
+}
+
+.seen {
+    display: block;
+}
